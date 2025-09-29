@@ -4,6 +4,5 @@
 * avocado
 * lime
 * salt
-* chocolate
 
 ##Instructions
